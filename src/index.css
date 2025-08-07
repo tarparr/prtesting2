@@ -103,6 +103,29 @@ align-items: center;
   
 }
 
+
+.aquiz-button11 {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.bquiz-button11 {
+  padding: 10px 20px;
+  background-color: orange;
+  color: white;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+
 .popup-box11 {
   background-color: green;
       padding: 30px;

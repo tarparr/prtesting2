@@ -165,7 +165,12 @@ const closePopup = () => {
         </div>
       </div>
     
-
+ <button className="aquiz-button11" onClick={openPopup}>
+        add Start Quiz
+      </button>
+       <button className="bquiz-button11" onClick={openPopup}>
+        by Start Quiz
+      </button>
 
  <Routes>
 <Route path='/Signup' element={<Signup/>}  />
