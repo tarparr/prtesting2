@@ -166,11 +166,13 @@ const closePopup = () => {
       </div>
     
  <button className="aquiz-button11" onClick={openPopup}>
-        add Start Quiz
+        tarun bets 
       </button>
+      <p>you are my person as they ,ake </p>
        <button className="bquiz-button11" onClick={openPopup}>
         by Start Quiz
       </button>
+      <button><a href='https://whereisthemouse.com/how-to-use-button-as-link-in-react'>apply me </a></button>
 
  <Routes>
 <Route path='/Signup' element={<Signup/>}  />
